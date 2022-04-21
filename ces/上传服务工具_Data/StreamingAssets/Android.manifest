@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3541790491
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model.u3d
+      Dependencies: {}
